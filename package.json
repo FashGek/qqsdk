@@ -1,0 +1,10 @@
+{
+  "name"          : "qqsdk",
+  "description"   : "腾讯开放平台SDK",
+  "homepage"      : "http://play175.github.com/qqsdk/",
+  "keywords"      : ["qq","tencent","腾讯开放平台","SDK"],
+  "author"        : "yoyo <http://yoyo.play175.com>",
+  "repository"    : {"type": "git", "url": "https://github.com/play175/qqsdk.git"},
+  "main"          : "index.js",
+  "version"       : "0.1"
+}
